@@ -61,7 +61,7 @@
                 <div>
                   <img
                     class="inline-block h-8 w-8 rounded-full bg-slate-700 dark:bg-slate-800"
-                    src="../assets/images/catoon.png"
+                    src=""
                     alt=""
                   />
                 </div>
