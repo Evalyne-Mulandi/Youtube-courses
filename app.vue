@@ -281,7 +281,7 @@
             </ul>
           </div>
           <div class="col-span-4 md:col-span-2 flex  h-32 w-32 ml-14 justify-end items-center">
-            <img src=" https://o.remove.bg/downloads/aeea709d-adcc-4f35-bafb-47dbf8211393/girl-using-laptop-cartoon_1308-119447-removebg-preview.png" />
+            <img src="https://img.freepik.com/premium-vector/boy-study-with-laptop-mascot3_120309-62.jpg?w=740" />
           </div>
         </div>
       </div>
