@@ -280,8 +280,8 @@
               </li>
             </ul>
           </div>
-          <div class="col-span-4 md:col-span-2 flex justify-end items-center">
-            <img src="https://img.freepik.com/free-vector/girl-using-laptop-cartoon_1308-119447.jpg?w=740&t=st=1685294375~exp=1685294975~hmac=a43b0b88f3d808de66f8117022c5b5794ca85071c148c97db9ea8eab6ea95159" alt="Logo" class="h-40 w-32 mr-4 rounded" />
+          <div class="col-span-4 md:col-span-2 flex  h-32 w-32 ml-14 justify-end items-center">
+            <img src=" https://o.remove.bg/downloads/aeea709d-adcc-4f35-bafb-47dbf8211393/girl-using-laptop-cartoon_1308-119447-removebg-preview.png" />
           </div>
         </div>
       </div>
@@ -290,7 +290,7 @@
  
    
 
-<div class="text-center p-6 m-1" style="background-color: rgba(0, 0, 0, 0.2);">
+<div class="text-center p-3 m-1" style="background-color: rgba(0, 0, 0, 0.2);">
   © 2023 Copyright:
   <a class="text-orange-600" href="https://tailwind-elements.com/">E-Technologies</a>
 </div>

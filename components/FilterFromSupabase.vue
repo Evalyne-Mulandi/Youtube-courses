@@ -37,6 +37,20 @@
         >
           TypeScript
         </button>
+        <div class="  flex justify-end items-end space-x-4">
+          <button 
+          class="py-2 px-4  bg-slate-500 text-white rounded-md"
+        ><NuxtLink to="bookmark"> 
+          Create Bookmark
+        </NuxtLink>
+        </button>
+        <button
+         class="py-2 px-4 bg-slate-500 text-white rounded-md"
+        ><NuxtLink to="quiz"> 
+          Revision Questions
+        </NuxtLink>
+        </button>
+         </div>
       </div>
 
       <div v-if="searchResults.length" class="mt-4">

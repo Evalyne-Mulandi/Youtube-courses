@@ -1,7 +1,8 @@
 <template>
+  </template>
   <!-- Tailwindcss component for youtube searches -->
-  <main class="py-6  px-6 mx-auto">
-    <!--  <FilterFromSupabase />  -->
+  <!-- <main class="py-6  px-6 mx-auto">
+      <FilterFromSupabase />  
     <Loading v-if="loading" />
     
 
@@ -113,7 +114,7 @@ export default {
           params: {
             q: searchTerm.value,
             part: "snippet",
-            /* key: "AIzaSyDZkrP0Ey2BW-WpUmkcoFsVsxcbPB-CDzY", */
+           key: "AIzaSyDZkrP0Ey2BW-WpUmkcoFsVsxcbPB-CDzY",
             maxResults: 20,
             totalResults: 20,
           },
@@ -175,7 +176,7 @@ export default {
     };
   },
 };
-</script>
+</script> -->
 
 <style>
 /* Add Tailwind CSS classes or custom styles here */

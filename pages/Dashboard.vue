@@ -67,6 +67,7 @@
       </div>
     </div>
     <Youtube />
+    <FilterFromSupabase /> 
   </div>
 </template>
 

@@ -14,7 +14,7 @@
     <h1 class="text-3xl font-bold mb-4">Our Mission</h1>
     <p class="text-gray-700 leading-relaxed">
       Our mission is to help people stay organized and save time by providing them with
-      the best possible bookmarking platform. We believe that technology should make our
+      the best possible recommendation platform. We believe that technology should make our
       lives easier, not more complicated, and we are committed to creating a system that
       is user-friendly and intuitive.
     </p>

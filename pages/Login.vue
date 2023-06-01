@@ -1,13 +1,16 @@
 <template>
    <Banner />
    <nav class="bg-slate-900 py-5 shadow   mb-4">
-      <ul class="flex justify-center items-center mx-auto gap-x-2">
+      <ul class="flex justify-center  items-center mx-auto gap-x-2">
         <li class="inline-block">
           <NuxtLink class="text-white px-4 py-2" to="/">Home</NuxtLink>
         </li>
 
         <li class="inline-block">
           <NuxtLink class="text-white px-4 py-2" to="Dashboard">Dashboard</NuxtLink>
+        </li>
+        <li class="inline-block">
+          <NuxtLink class="text-white px-4 py-2" to="AdminLogin">Admin</NuxtLink>
         </li>
       </ul>
     </nav>
